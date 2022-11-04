@@ -1,0 +1,29 @@
+.header {
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
+
+.footer {
+    margin-top: 150px;
+    font-size: 24px;
+}
+
+.book {
+    margin-right: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.my_button {
+    color:blue;
+    background:white;
+    border:1px solid blue;
+    border-radius: 5px;
+}
+
+.my_button:hover {
+    color:white;
+    background:blue;
+    border:1px solid blue;
+    border-radius: 5px;
+}
